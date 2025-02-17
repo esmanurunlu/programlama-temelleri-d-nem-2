@@ -1,4 +1,4 @@
-ornek=["y","a","n","ı","t"]
-print(ornek)
-ornek[0]="k"  #0.indeksteki elemanın değeri k olarak geğiştirildi
-print("yeni liste:",ornek)
+ders=["b","i","l","i","ş","i","m"]
+sayi=ders.count("i")
+#listede kaç tane "i" elemanı oldugunusayı değişkenine atar 
+print(sayi)

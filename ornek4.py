@@ -1,7 +1,3 @@
-ornek=["sanat","sanat","içindir"]
-ornek[1]="toplum"
-print(ornek)
-
-ornek=[3,1,2]
-ornek[0]=1
-print(ornek)
+ders=["b","i","l","i","ş","i","m"]
+del ders[4:6]
+print(ders)

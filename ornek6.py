@@ -1,3 +1,3 @@
-hafta_ici=["pazartesi","salı","çarşamba","perşembe","cuma"]
-print("cuma" in hafta_ici)
-print("cumartesi" in hafta_ici)
+ders=["b","i","l","i","ş","i","m"]
+ders.clear()  #listenin tüm elemanlarını siler 
+print(ders)
