@@ -1,3 +1,9 @@
-ders=["b","i","l","i","ş","i","m"]
-del ders[4:6]
-print(ders)
+kod=input("plaka")
+if kod=="06":
+    print("ankara")
+elif kod=="07":
+    print("antalya")
+elif kod=="08":
+    print("artvin")
+else:
+    print("türkiye")

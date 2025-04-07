@@ -1,4 +1,7 @@
-ders=["b","i","l","i","ş","i","m"]
-#listeyi alfabetik olarak sırala
-ders.sort()  #verilen listeyi küçükten büyüğe alfabetik olarak sıralar
-print(ders)
+derece=int(input("derece girin"))
+if derece <0:
+    print("katı")
+elif derece >=0 and derece < 100:
+    print("sıvı")
+else:
+    print("gaz")
